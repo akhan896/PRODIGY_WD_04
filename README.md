@@ -23,7 +23,7 @@ To view the portfolio website locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/portfolio-website.git
+    git clone https://github.com/akhan896/portfolio-website.git
     ```
 
 2. **Navigate to the project directory:**
@@ -44,10 +44,6 @@ The website can be used as a template for personal portfolios. Feel free to cust
 
 If you have any suggestions or improvements, feel free to submit a pull request. Contributions are always welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Special thanks to Prodigy Infotech for the opportunity to work on this project.
@@ -57,9 +53,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Contact Information**
 
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
-
+- **Name**: Arman khan
+- **Email**: armancrjr07@gmail.com
+- **LinkedIn**: www.linkedin.com/in/
+arman-khan-394b84296
+- **GitHub**: akhan896
 
