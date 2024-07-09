@@ -17,24 +17,6 @@ This is a personal portfolio website created as part of my web developer interns
 - **HTML**: The structure of the website.
 - **CSS**: The styling and layout of the website.
 
-## Installation and Setup
-
-To view the portfolio website locally, follow these steps:
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/akhan896/portfolio-website.git
-    ```
-
-2. **Navigate to the project directory:**
-    ```bash
-    cd portfolio-website
-    ```
-
-3. **Open the `index.html` file in your browser:**
-    ```bash
-    open index.html
-    ```
 
 ## Usage
 
@@ -51,11 +33,4 @@ If you have any suggestions or improvements, feel free to submit a pull request.
 
 ---
 
-**Contact Information**
-
-- **Name**: Arman khan
-- **Email**: armancrjr07@gmail.com
-- **LinkedIn**: www.linkedin.com/in/
-arman-khan-394b84296
-- **GitHub**: akhan896
 
