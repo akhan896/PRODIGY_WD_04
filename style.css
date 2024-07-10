@@ -100,3 +100,24 @@ nav ul li a:hover {
     background-color: white;
     margin: 0 100px;
 }
+
+.image-top{
+    width: 23px;
+    position: relative;
+    top: -32px;
+    left: -9px;
+}
+
+.vertical-title{
+    position: relative;
+    top: 75px;
+    width: 150px;
+}
+
+.vertical-desc{
+    position: relative;
+    top: 86px;
+    color: gray;
+    width: 150px;
+    font-size: 9px;
+}
