@@ -1,5 +1,4 @@
 # PRODIGY_WD_04
-# Portfolio Website
 
 ## Overview
 
@@ -17,6 +16,24 @@ This is a personal portfolio website created as part of my web developer interns
 - **HTML**: The structure of the website.
 - **CSS**: The styling and layout of the website.
 
+## Installation and Setup
+
+To view the portfolio website locally, follow these steps:
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/akhan896/PRODIGY_WD_04.git
+    ```
+
+2. **Navigate to the project directory:**
+    ```bash
+    cd PRODIGY_WD_04
+    ```
+
+3. **Open the `index.html` file in your browser:**
+    ```bash
+    open index.html
+    ```
 
 ## Usage
 
@@ -30,7 +47,4 @@ If you have any suggestions or improvements, feel free to submit a pull request.
 
 - Special thanks to Prodigy Infotech for the opportunity to work on this project.
 - Inspiration from various portfolio templates and design resources available online.
-
----
-
 
