@@ -1,4 +1,4 @@
-# Portfolio Website
+# PRODIGY_WD_04
 
 ## Overview
 
@@ -22,12 +22,12 @@ To view the portfolio website locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/portfolio-website.git
+    git clone https://github.com/akhan896/PRODIGY_WD_04.git
     ```
 
 2. **Navigate to the project directory:**
     ```bash
-    cd portfolio-website
+    cd PRODIGY_WD_04
     ```
 
 3. **Open the `index.html` file in your browser:**
