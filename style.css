@@ -191,11 +191,47 @@ footer .footer-rights {
     margin-top: 2%;
 }
 
-.contact{
+.container{
+    width: 80%;
+    margin: 50px auto;
+}
+
+.contact-box{
+    background: #fff;
     display: flex;
-    justify-content: space-around;
-    align-items: center;
-    height: 80px;
-    background-color: rgb(18, 18, 62);
-    font-size: 3rem;
+}
+
+.contact-left{
+    flex-basis: 60%;
+    padding: 40px 60px;
+    color: #000;
+}
+.contact-right{
+    flex-basis: 40%;
+    padding: 40px;
+    background: #1c00b5;
+    color: #fff;
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+.container p{
+    margin-bottom: 40px;
+}
+
+.input-row{
+    display: flex;
+   justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.input-row .input-group{
+    flex-basis: 45%;
+
+}
+
+input{
+    width:100%;
 }
