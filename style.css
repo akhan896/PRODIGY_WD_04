@@ -161,8 +161,8 @@ footer .footer-rights {
     padding: 12px 0;
 }
 
-.btn:hover{
-    font-size:  1.04rem;
+.btn:hover {
+    font-size: 1.04rem;
 }
 
 .about {
@@ -174,64 +174,62 @@ footer .footer-rights {
     font-size: 3rem;
 }
 
-.name{
+.name {
     color: #9c97f1;
 }
 
-.aboutme{
+.aboutme {
     top: 0%;
     color: gray;
     font-size: 2rem;
     margin: 5%;
 }
 
-.developer-jpg{
+.developer-jpg {
     width: 17%;
     margin-left: 38%;
     margin-top: 2%;
 }
 
-.container{
+.container {
     width: 80%;
     margin: 50px auto;
 }
 
-.contact-box{
+.contact-box {
     background: #fff;
     display: flex;
 }
 
-.contact-left{
+.contact-left {
     flex-basis: 60%;
     padding: 40px 60px;
     color: #000;
 }
-.contact-right{
+
+.contact-right {
+    display: flex;
     flex-basis: 40%;
     padding: 40px;
     background: #1c00b5;
     color: #fff;
 }
 
-h1{
+h1 {
     margin-bottom: 10px;
 }
 
-.container p{
+.container p {
     margin-bottom: 40px;
 }
 
-.input-row{
+.input-row {
     display: flex;
-   justify-content: space-between;
+    justify-content: space-between;
     margin-bottom: 20px;
 }
 
-.input-row .input-group{
+.input-row .input-group {
     flex-basis: 45%;
-
-}
-
-input{
-    width:100%;
+    
 }
